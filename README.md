@@ -1,2 +1,13 @@
-# Tableau_Project
-Analysis utilizing my skills in Tableau and cleaning CSV files in Python.
+# New York City Bike Data Analysis
+    * Using: Python for ETL and Tableau for visualizations and analysis.
+
+## About my project
+
+## Softwares used:
+    * Python & Jupyter Notebook 
+      * Extracting; pulled individual CSV files into Python from [Data Source](https://s3.amazonaws.com/tripdata/index.html)
+      * Transformed; 
+
+## Data Source:
+    * [Documentation](https://www.citibikenyc.com/system-data)
+    * [CSV Files](https://s3.amazonaws.com/tripdata/index.html)
