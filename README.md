@@ -1,5 +1,5 @@
 # New York City Bike Data Analysis
-    * Using: Python for ETL and Tableau for visualizations and analysis.
+* Using: Python for ETL and Tableau for visualizations and analysis.
 
 ## About my project
 
