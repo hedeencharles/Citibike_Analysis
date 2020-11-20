@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/* CSS for Dropdown menu */
+/* CSS page zoom control */
 
 
 /*!
@@ -10262,7 +10262,7 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
