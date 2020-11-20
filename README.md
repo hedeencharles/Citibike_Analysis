@@ -10,9 +10,7 @@
   * **Load;** automated the Notebook to then concatenate all the CSV files into one DataFrame and exported the DataFrame to a CSV file called 'cleaned_2016_2020_05-10.csv'. This CSV file was then loaded into Tableau for visual analysis.
   * **Exploration;** utilized the Python Pandas and Matplotlib library to further analyze the combined CSV file. Here, I was able to identify outliers and other trends in the data before jumping into Tableau.
 * ### Tableau
-  * **Visualizations:**
-  * **Dashboards:**
-  * **Storytelling:**
+  * **Visualizations and Analysis** 
   
 
 ## Data Source Citation:
