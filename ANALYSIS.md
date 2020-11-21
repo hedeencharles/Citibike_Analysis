@@ -20,8 +20,14 @@
   * Ages 26-40 ride more often, but ages 16-25 ride *a lot* longer.
   * An *interesting* statistic is in 2016 with age 72 having the largest average ride time. Not sure why this is, but wanted to address it. Overall, age 72 and 78 had amoung the largest average ride time.
 ### *What is happening to the number of rides VS average ride time, since 2016?*
-  * From the graph depicting 'Number of Trips VS Average Duration of Trips' we see that in 2020 
-### *Other Trends?*
+  * From the graph depicting 'Number of Trips VS Average Duration of Trips' we clearly see that the total number of trips taken has decreased sharply and at the same time the average trip duration has increased rapidly. 
+  * This visual implies that users are taking less trips but riding longer. With support from the Popular End Station's map, where we can see more users riding further into New York City, we can infer riders are making more of their ride, rather than just getting somewhere.
+### Female target marketing:
+  * In recent years, Citi bike has implemented target marketing campaigns where they aim to increase female users. As shown in both moving visuals in this section, we see that there has been an increase in the percentage of female users. From 2016-2020 the proportion of rides by female has increased from 22.5% to 31.8%. This equates to a 58% increase in the total number of rides by female users between 2016-2020. 
+  * An *interesting* trend I spotted was since Covid-19 began, the number of rides by males decreased 42% while females only decreased 2%!
+### "Unknown" outliers
+  * As shown in the visual section called "Gender data outlier," the dataset contains rows of data with gender="unknown." There could be many implications for this, one being gender is not binary, but most of the data with "unknown" gender also has the birth year of 1969. I imagine these are both default placeholders when a user rents a bike.
+  * With majority of "Unknown" genders sharing the birth year of 1969, I decided to not include the data when doing analysis of gender and age.
 
 ## <ins>User Type</ins>:
 ### *What proportion of riders are customers vs subscribers? Is this changing by year?*
