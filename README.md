@@ -1,8 +1,9 @@
-# New York City Bike Data Analysis
-* Using: Python for ETL and Tableau for visualizations and analysis.
+# **New York City Bike Data Analysis**
 
-## About my project
 
+# About my project
+
+## *Analysis located in [ANALYSIS.MD](https://duckduckgo.com) file.*
 ## Softwares used:
 * ### Python & Jupyter Notebook
   * **Extract;** automated the Notebook to pull in a local directory of CSV files downloaded from [New York Citi Bike Data](https://s3.amazonaws.com/tripdata/index.html). 
