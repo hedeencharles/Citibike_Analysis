@@ -1,6 +1,6 @@
 # **New York City Bike Data Analysis**
 
-## *Analysis located in [ANALYSIS.MD](https://github.com/hedeencharles/Tableau_Project/blob/main/ANALYSIS.md) file or the [website](https://hedeencharles.github.io/Tableau_Project/analysis.html)*
+## *Analysis located in <a href="https://github.com/hedeencharles/Tableau_Project/blob/main/ANALYSIS.md" target="_blank">ANALYSIS.MD</a> file or my [Website](https://hedeencharles.github.io/Tableau_Project/analysis.html)*
 ## Softwares used:
 * ### Python & Jupyter Notebook
   * **Extract;** automated the Notebook to pull in a local directory of CSV files downloaded from [New York Citi Bike Data](https://s3.amazonaws.com/tripdata/index.html). 
@@ -19,3 +19,4 @@
 
 
 
+[ANALYSIS.MD](https://github.com/hedeencharles/Tableau_Project/blob/main/ANALYSIS.md)
