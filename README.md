@@ -1,9 +1,6 @@
 # **New York City Bike Data Analysis**
 
-
-# About my project
-
-## *Analysis located in [ANALYSIS.MD](https://duckduckgo.com) file.*
+## *Analysis located in [ANALYSIS.MD](https://github.com/hedeencharles/Tableau_Project/blob/main/ANALYSIS.md) file or the [website](https://hedeencharles.github.io/Tableau_Project/analysis.html)*
 ## Softwares used:
 * ### Python & Jupyter Notebook
   * **Extract;** automated the Notebook to pull in a local directory of CSV files downloaded from [New York Citi Bike Data](https://s3.amazonaws.com/tripdata/index.html). 
