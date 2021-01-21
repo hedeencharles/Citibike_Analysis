@@ -14,9 +14,14 @@
   * [Click Here](https://hedeencharles.github.io/Citibike_Analysis/index.html) to view <u>Tableau stories website</u>
     * The website showcases three Tableau Stories with similar yet different objectives. Analysis will be used for efficiency improvements and recommendations for target marketing. 
 
+<img src="assets/img/station_location_story.png" alt="drawing" width="225"/>
+<img src="assets/img/number_rides_story.png" alt="drawing" width="225"/>
+<img src="assets/img/user_type_story.png" alt="drawing" width="225"/>
+
+
 ## **Written Analysis**
   * [Click Here](https://hedeencharles.github.io/Citibike_Analysis/analysis.html) to view <u>analysis on website</u>
-    * The above link includes a written analysis and recommendations for Citi Bike group.
+    * The above link includes a written analysis and data driven recommendations for Citi Bike group.
 
 ## **Softwares used:**
 * ### Tableau
